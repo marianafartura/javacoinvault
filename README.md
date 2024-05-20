@@ -1,4 +1,4 @@
-# Cofrinho Virtual
+# Piggy Bank
 
 This Java project was created as a practical activity for my college, Uninter, for the Analysis and Systems Development course and for the Object-Oriented Programming subject. This simple application allows the user to add or remove coins in Brazilian real, euro, or dollar to a virtual piggy bank, define their value, and convert the total available in the piggy bank to Brazilian real. 
 
